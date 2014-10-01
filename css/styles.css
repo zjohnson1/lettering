@@ -1,7 +1,15 @@
 /* Your Website Styles */
 
-
+.char1, .char4, .char7{
+	color: orange;
+}
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
 }
+
+.word2, .word4{
+	color: yellow;
+	letter-spacing: -2px;
+}
+
